@@ -8,3 +8,4 @@ diff
 My stupid boss still prefers SVN.
 where
 try
+Creating a new branch is quick.
