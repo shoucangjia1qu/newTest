@@ -15,4 +15,6 @@ Today is Friday!
 --no-ff,git merge.
 use ff,git merge.
 --no-ff!
+need
+fix a bug!
 
