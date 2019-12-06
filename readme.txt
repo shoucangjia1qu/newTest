@@ -12,5 +12,6 @@ try
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Today is Friday!
+--no-ff,git merge.
 
 
