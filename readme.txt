@@ -9,3 +9,4 @@ My stupid boss still prefers SVN.
 where
 try
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
