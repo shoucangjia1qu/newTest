@@ -1,4 +1,5 @@
-Git is a distributed version control system.
+
+it is a distributed version control system.
 Git is free software.
 abctest
 try again
@@ -9,4 +10,6 @@ My stupid boss still prefers SVN.
 where
 try
 Creating a new branch is quick.
-Creating a new branch is quick and simple.
+Creating a new branch is quick and
+today is sunday?
+
